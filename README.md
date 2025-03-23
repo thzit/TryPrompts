@@ -1,2 +1,2 @@
-# AI-MagicPrompt
+# Try Prompts
 Awesome AI Prompts Collection
